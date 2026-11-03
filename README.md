@@ -6,7 +6,9 @@ Windows 本地配音软件。支持文字配音、声音模仿、试听和音频
 
 ## 下载安装
 
-1. 打开 [下载页](https://github.com/haha997123/shengyu-voice-studio/releases/tag/v1.4.1)，下载 **Install-Shengyu.exe**。
+**[点击下载安装助手（Windows 64 位）](https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.1/Install-Shengyu.exe)**
+
+1. 点击上面的链接，下载 **Install-Shengyu.exe**。也可查看 [完整下载页](https://github.com/haha997123/shengyu-voice-studio/releases/tag/v1.4.1)。
 2. 双击安装程序，使用默认位置或选择其他安装位置，点击“开始安装”。
 3. 安装助手会自动下载资源、检查完整性并完成安装。完成后可打开软件，以后从桌面“声屿”快捷方式启动。
 
