@@ -1,293 +1,437 @@
 {
-  "version": "1.4.6",
-  "archive_sha256": "d394cbd1860cd33622c7c66fdb00f71275f1189ff762ebb6df7fae9b21615195",
-  "download_bytes": 5695919019,
-  "unpacked_bytes": 7793827723,
-  "assets": [
-    {
-      "name": "Install-Shengyu.exe",
-      "bytes": 181248,
-      "sha256": "059cdd497b0bb00a67329a4bef5f79b10433439c107c1fc28669784932f14675"
-    },
-    {
-      "name": "README-Install.txt",
-      "bytes": 725,
-      "sha256": "53fe3a34f36094d4d0b690f8ab2e1b10daf5f97b2817465e8fa6522c65c66a80"
-    },
+  "version": "1.4.7",
+  "archive_format": "zip-prefix-v1",
+  "archive_sha256": "c8269a90a6434291c9428e07b1cf59f335d07ccc7513beb698c20db63e798f57",
+  "download_bytes": 5819853868,
+  "unpacked_bytes": 7925436023,
+  "new_upload_bytes": 124134694,
+  "parts": [
     {
       "name": "ShengyuData-001.bin",
       "bytes": 100000000,
-      "sha256": "02d14db42a780b812d92445cdda10f911eb768d0a65f1107cc7988fa2635b640"
+      "sha256": "02d14db42a780b812d92445cdda10f911eb768d0a65f1107cc7988fa2635b640",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-001.bin"
     },
     {
       "name": "ShengyuData-002.bin",
       "bytes": 100000000,
-      "sha256": "d130ae653f76001ef0c655178a608ad243808a8f0e39b9351af99de7a3a7d24a"
+      "sha256": "d130ae653f76001ef0c655178a608ad243808a8f0e39b9351af99de7a3a7d24a",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-002.bin"
     },
     {
       "name": "ShengyuData-003.bin",
       "bytes": 100000000,
-      "sha256": "a18f1acdf3e88a7d729cd936e0287c61b5e0d30f53a7a008064d609e403e372e"
+      "sha256": "a18f1acdf3e88a7d729cd936e0287c61b5e0d30f53a7a008064d609e403e372e",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-003.bin"
     },
     {
       "name": "ShengyuData-004.bin",
       "bytes": 100000000,
-      "sha256": "cad2d61c6aa3fdde16d966be0487e6508c6e87e767b2e6ca58759458386da6e9"
+      "sha256": "cad2d61c6aa3fdde16d966be0487e6508c6e87e767b2e6ca58759458386da6e9",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-004.bin"
     },
     {
       "name": "ShengyuData-005.bin",
       "bytes": 100000000,
-      "sha256": "80dee539e0e86a2352d84b5d50751696b2763d54159d6968cce5a8de8cebe38c"
+      "sha256": "80dee539e0e86a2352d84b5d50751696b2763d54159d6968cce5a8de8cebe38c",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-005.bin"
     },
     {
       "name": "ShengyuData-006.bin",
       "bytes": 100000000,
-      "sha256": "c257fc0845a92d429615d47b79b98814c9a2d347fa12eadeb3b8fdfff8842cf5"
+      "sha256": "c257fc0845a92d429615d47b79b98814c9a2d347fa12eadeb3b8fdfff8842cf5",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-006.bin"
     },
     {
       "name": "ShengyuData-007.bin",
       "bytes": 100000000,
-      "sha256": "9fb7406d3bdf45630e774ced8950940a2081333ecc456dc2b25a569469e9e906"
+      "sha256": "9fb7406d3bdf45630e774ced8950940a2081333ecc456dc2b25a569469e9e906",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-007.bin"
     },
     {
       "name": "ShengyuData-008.bin",
       "bytes": 100000000,
-      "sha256": "471cc89c09ef652d4a2deeac5d93fa4a6acacb37f9fbffa408a1c19a0a0784fd"
+      "sha256": "471cc89c09ef652d4a2deeac5d93fa4a6acacb37f9fbffa408a1c19a0a0784fd",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-008.bin"
     },
     {
       "name": "ShengyuData-009.bin",
       "bytes": 100000000,
-      "sha256": "e5a7e1908bf04112a5daa0de1b9a3a2d6be99eabd184f509a9f5a3aa922efe04"
+      "sha256": "e5a7e1908bf04112a5daa0de1b9a3a2d6be99eabd184f509a9f5a3aa922efe04",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-009.bin"
     },
     {
       "name": "ShengyuData-010.bin",
       "bytes": 100000000,
-      "sha256": "d3867e31bdc18bd478341a0361b7453b941b74080c86670c019578704841b62b"
+      "sha256": "d3867e31bdc18bd478341a0361b7453b941b74080c86670c019578704841b62b",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-010.bin"
     },
     {
       "name": "ShengyuData-011.bin",
       "bytes": 100000000,
-      "sha256": "ae95ba4ddbb98167c67d24f5a5d4781ffe861d8981b13b0cb94e07eb7edea879"
+      "sha256": "ae95ba4ddbb98167c67d24f5a5d4781ffe861d8981b13b0cb94e07eb7edea879",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-011.bin"
     },
     {
       "name": "ShengyuData-012.bin",
       "bytes": 100000000,
-      "sha256": "3048a8749c7ae3b7e563845d0190b3b2838f37f06dc1873a6def08641d7b1897"
+      "sha256": "3048a8749c7ae3b7e563845d0190b3b2838f37f06dc1873a6def08641d7b1897",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-012.bin"
     },
     {
       "name": "ShengyuData-013.bin",
       "bytes": 100000000,
-      "sha256": "afceff4617c29b82e6b42b5950a004de02d41ea3c0edeb18e932b27ea8ec305a"
+      "sha256": "afceff4617c29b82e6b42b5950a004de02d41ea3c0edeb18e932b27ea8ec305a",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-013.bin"
     },
     {
       "name": "ShengyuData-014.bin",
       "bytes": 100000000,
-      "sha256": "5f5975aadbf401d6b851cc012b13b2b2ffbeff48a738a88270edf847bed9cffa"
+      "sha256": "5f5975aadbf401d6b851cc012b13b2b2ffbeff48a738a88270edf847bed9cffa",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-014.bin"
     },
     {
       "name": "ShengyuData-015.bin",
       "bytes": 100000000,
-      "sha256": "cdc87292c44baf6c6eae1067186a48d854d34e590ec680612aeb304c09ff79fb"
+      "sha256": "cdc87292c44baf6c6eae1067186a48d854d34e590ec680612aeb304c09ff79fb",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-015.bin"
     },
     {
       "name": "ShengyuData-016.bin",
       "bytes": 100000000,
-      "sha256": "ee68e47f8ffddea182bea4a5add864fc3dddec66c15cd65c7fa1eed3e3543e4b"
+      "sha256": "ee68e47f8ffddea182bea4a5add864fc3dddec66c15cd65c7fa1eed3e3543e4b",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-016.bin"
     },
     {
       "name": "ShengyuData-017.bin",
       "bytes": 100000000,
-      "sha256": "4c061c60344757a1fbaefae4e22715db914af5cf44fb1a19c69bdf4477808c3c"
+      "sha256": "4c061c60344757a1fbaefae4e22715db914af5cf44fb1a19c69bdf4477808c3c",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-017.bin"
     },
     {
       "name": "ShengyuData-018.bin",
       "bytes": 100000000,
-      "sha256": "bbea12bdca97bb3e8017efe36a6588defbbf40b49ee6d0144e356a26afcfd66e"
+      "sha256": "bbea12bdca97bb3e8017efe36a6588defbbf40b49ee6d0144e356a26afcfd66e",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-018.bin"
     },
     {
       "name": "ShengyuData-019.bin",
       "bytes": 100000000,
-      "sha256": "8feec20f4e969068db5c3a4f3edd181ca161b2d3c7fe22edeeaecea0a848f6c2"
+      "sha256": "8feec20f4e969068db5c3a4f3edd181ca161b2d3c7fe22edeeaecea0a848f6c2",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-019.bin"
     },
     {
       "name": "ShengyuData-020.bin",
       "bytes": 100000000,
-      "sha256": "02c51e8ddf2de91600fa199c9e5036fa1a97dc10da120ccf90701b07f00bc178"
+      "sha256": "02c51e8ddf2de91600fa199c9e5036fa1a97dc10da120ccf90701b07f00bc178",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-020.bin"
     },
     {
       "name": "ShengyuData-021.bin",
       "bytes": 100000000,
-      "sha256": "a1a5efc4b5595fc685ed9204cb8c94627138fe93e3fe49a6cf6c3a43186feca8"
+      "sha256": "a1a5efc4b5595fc685ed9204cb8c94627138fe93e3fe49a6cf6c3a43186feca8",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-021.bin"
     },
     {
       "name": "ShengyuData-022.bin",
       "bytes": 100000000,
-      "sha256": "0bfac6583283579671818eb859eb7550fdd372fb10420bb5e6694409fafa7714"
+      "sha256": "0bfac6583283579671818eb859eb7550fdd372fb10420bb5e6694409fafa7714",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-022.bin"
     },
     {
       "name": "ShengyuData-023.bin",
       "bytes": 100000000,
-      "sha256": "9f236bcbf64c16155690edea9651b45125ad1c742a5bf9039f6aaf4efb1f9315"
+      "sha256": "9f236bcbf64c16155690edea9651b45125ad1c742a5bf9039f6aaf4efb1f9315",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-023.bin"
     },
     {
       "name": "ShengyuData-024.bin",
       "bytes": 100000000,
-      "sha256": "ac068ad38508f08aca827bd2427c434311459a965900842c164b282173c3b81a"
+      "sha256": "ac068ad38508f08aca827bd2427c434311459a965900842c164b282173c3b81a",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-024.bin"
     },
     {
       "name": "ShengyuData-025.bin",
       "bytes": 100000000,
-      "sha256": "bdc6ce9ff6d037a8123ece05f3a0d397e0e0ef92b40ba68de7c3120fc9a98108"
+      "sha256": "bdc6ce9ff6d037a8123ece05f3a0d397e0e0ef92b40ba68de7c3120fc9a98108",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-025.bin"
     },
     {
       "name": "ShengyuData-026.bin",
       "bytes": 100000000,
-      "sha256": "b0efd42cec206f72995adba7104d89081be7678259d3ca16874d77bbf2882b0b"
+      "sha256": "b0efd42cec206f72995adba7104d89081be7678259d3ca16874d77bbf2882b0b",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-026.bin"
     },
     {
       "name": "ShengyuData-027.bin",
       "bytes": 100000000,
-      "sha256": "f6fd99ff57af5e497dde9f6233060dd45ca87e383e03759c7ddcb4dad04e2be2"
+      "sha256": "f6fd99ff57af5e497dde9f6233060dd45ca87e383e03759c7ddcb4dad04e2be2",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-027.bin"
     },
     {
       "name": "ShengyuData-028.bin",
       "bytes": 100000000,
-      "sha256": "c8360be102f5b5cfa53f66a751a00f171f504322d521e3fa3564fe85b4bfbd56"
+      "sha256": "c8360be102f5b5cfa53f66a751a00f171f504322d521e3fa3564fe85b4bfbd56",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-028.bin"
     },
     {
       "name": "ShengyuData-029.bin",
       "bytes": 100000000,
-      "sha256": "afb8fec57a5f3f0e496b495dd09e797a9c36637f9d57dd48aba0cb95ca0a3024"
+      "sha256": "afb8fec57a5f3f0e496b495dd09e797a9c36637f9d57dd48aba0cb95ca0a3024",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-029.bin"
     },
     {
       "name": "ShengyuData-030.bin",
       "bytes": 100000000,
-      "sha256": "594923423717be80135dd6b85b0279b27ee3a9f0ccf87d52fe322ef8bfbd7a28"
+      "sha256": "594923423717be80135dd6b85b0279b27ee3a9f0ccf87d52fe322ef8bfbd7a28",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-030.bin"
     },
     {
       "name": "ShengyuData-031.bin",
       "bytes": 100000000,
-      "sha256": "0e8be03d9fa92e5972d6a3267f7bf290aa214ab89283fd97f032729ecde89a5f"
+      "sha256": "0e8be03d9fa92e5972d6a3267f7bf290aa214ab89283fd97f032729ecde89a5f",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-031.bin"
     },
     {
       "name": "ShengyuData-032.bin",
       "bytes": 100000000,
-      "sha256": "589ac82bc39073e70c39a527431332a0a93c08bcbe292c9355d84f62a326debd"
+      "sha256": "589ac82bc39073e70c39a527431332a0a93c08bcbe292c9355d84f62a326debd",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-032.bin"
     },
     {
       "name": "ShengyuData-033.bin",
       "bytes": 100000000,
-      "sha256": "2c3ba676ba33cd67c899913fffa246ef8c0b22f0a2751ea51ef93e94fcb7e57d"
+      "sha256": "2c3ba676ba33cd67c899913fffa246ef8c0b22f0a2751ea51ef93e94fcb7e57d",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-033.bin"
     },
     {
       "name": "ShengyuData-034.bin",
       "bytes": 100000000,
-      "sha256": "ad2b2d21d7d343416c495927764981286f84b4d7ca8ae089ba5a0c507bd83b60"
+      "sha256": "ad2b2d21d7d343416c495927764981286f84b4d7ca8ae089ba5a0c507bd83b60",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-034.bin"
     },
     {
       "name": "ShengyuData-035.bin",
       "bytes": 100000000,
-      "sha256": "7466fe2e2f1e1c70804ee6b136589b9e83cc369508f615fa8157b041e9cb04f3"
+      "sha256": "7466fe2e2f1e1c70804ee6b136589b9e83cc369508f615fa8157b041e9cb04f3",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-035.bin"
     },
     {
       "name": "ShengyuData-036.bin",
       "bytes": 100000000,
-      "sha256": "392daed1a5e6ce78bf30d55254dabf4b91167643a0fa96063948704f90cc1a6b"
+      "sha256": "392daed1a5e6ce78bf30d55254dabf4b91167643a0fa96063948704f90cc1a6b",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-036.bin"
     },
     {
       "name": "ShengyuData-037.bin",
       "bytes": 100000000,
-      "sha256": "8594ff70fb72d7d6d57252dcbb7c8b208f00d3d3667357b6698cf22927a86245"
+      "sha256": "8594ff70fb72d7d6d57252dcbb7c8b208f00d3d3667357b6698cf22927a86245",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-037.bin"
     },
     {
       "name": "ShengyuData-038.bin",
       "bytes": 100000000,
-      "sha256": "c7c6587399ae851fc7cf13e6c9192920f2d53712773ac59ac0684f6413a7f4be"
+      "sha256": "c7c6587399ae851fc7cf13e6c9192920f2d53712773ac59ac0684f6413a7f4be",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-038.bin"
     },
     {
       "name": "ShengyuData-039.bin",
       "bytes": 100000000,
-      "sha256": "52b743c2fb907c9903ae551a73b200542e4af037214e1c1d299b02e7936d22ed"
+      "sha256": "52b743c2fb907c9903ae551a73b200542e4af037214e1c1d299b02e7936d22ed",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-039.bin"
     },
     {
       "name": "ShengyuData-040.bin",
       "bytes": 100000000,
-      "sha256": "5dbf49feafd0bf74acd3e38376186ff83cc2e00c006bb8fe61f7015f7d97b89a"
+      "sha256": "5dbf49feafd0bf74acd3e38376186ff83cc2e00c006bb8fe61f7015f7d97b89a",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-040.bin"
     },
     {
       "name": "ShengyuData-041.bin",
       "bytes": 100000000,
-      "sha256": "a556354ee6fa940f1e6d9124ff02164ba35d398b581e44fd111f00458e6523fe"
+      "sha256": "a556354ee6fa940f1e6d9124ff02164ba35d398b581e44fd111f00458e6523fe",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-041.bin"
     },
     {
       "name": "ShengyuData-042.bin",
       "bytes": 100000000,
-      "sha256": "36456e46b794e07cd1828438630a935cf0429ca406eb61b0724cc74dfcdaec54"
+      "sha256": "36456e46b794e07cd1828438630a935cf0429ca406eb61b0724cc74dfcdaec54",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-042.bin"
     },
     {
       "name": "ShengyuData-043.bin",
       "bytes": 100000000,
-      "sha256": "4899da14c5653a0676c8ecd1a285644bb17916a3be9c8f314aa5eafe6561695a"
+      "sha256": "4899da14c5653a0676c8ecd1a285644bb17916a3be9c8f314aa5eafe6561695a",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-043.bin"
     },
     {
       "name": "ShengyuData-044.bin",
       "bytes": 100000000,
-      "sha256": "3c23cc82793233f65fd247e0540ad0ee4eb3267fd6cbd56bc357c3d94ef8a938"
+      "sha256": "3c23cc82793233f65fd247e0540ad0ee4eb3267fd6cbd56bc357c3d94ef8a938",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-044.bin"
     },
     {
       "name": "ShengyuData-045.bin",
       "bytes": 100000000,
-      "sha256": "d3ab1deccd7644fa27ac88a291f3c64e0e8fc995152b6b601215065a1b7d2aff"
+      "sha256": "d3ab1deccd7644fa27ac88a291f3c64e0e8fc995152b6b601215065a1b7d2aff",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-045.bin"
     },
     {
       "name": "ShengyuData-046.bin",
       "bytes": 100000000,
-      "sha256": "f7a6ccb49d4b5b60d9c2b582b77e0459f126d79f1a4193711509f430e1efebec"
+      "sha256": "f7a6ccb49d4b5b60d9c2b582b77e0459f126d79f1a4193711509f430e1efebec",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-046.bin"
     },
     {
       "name": "ShengyuData-047.bin",
       "bytes": 100000000,
-      "sha256": "9268c30b53e8ac506a758a10394421bdb8597a7a8c9cddb8518164019d948816"
+      "sha256": "9268c30b53e8ac506a758a10394421bdb8597a7a8c9cddb8518164019d948816",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-047.bin"
     },
     {
       "name": "ShengyuData-048.bin",
       "bytes": 100000000,
-      "sha256": "0b9712ffca435ea06efa66e37715aa7fdf1161e20db001146b8d6c12d3140e9e"
+      "sha256": "0b9712ffca435ea06efa66e37715aa7fdf1161e20db001146b8d6c12d3140e9e",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-048.bin"
     },
     {
       "name": "ShengyuData-049.bin",
       "bytes": 100000000,
-      "sha256": "899e8a41639afcf3e1149e3ed3921fc70ff88ccf3f2d4304b7f03de003ff4342"
+      "sha256": "899e8a41639afcf3e1149e3ed3921fc70ff88ccf3f2d4304b7f03de003ff4342",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-049.bin"
     },
     {
       "name": "ShengyuData-050.bin",
       "bytes": 100000000,
-      "sha256": "ee8043bb83c60c6a439df159fc3ad775ffccd487c018f97db3543807b6b6bfbd"
+      "sha256": "ee8043bb83c60c6a439df159fc3ad775ffccd487c018f97db3543807b6b6bfbd",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-050.bin"
     },
     {
       "name": "ShengyuData-051.bin",
       "bytes": 100000000,
-      "sha256": "0734855a3a05a517b1e32ab487c3fadfb0ef72ab6178d46f54a9fdeda5450cf6"
+      "sha256": "0734855a3a05a517b1e32ab487c3fadfb0ef72ab6178d46f54a9fdeda5450cf6",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-051.bin"
     },
     {
       "name": "ShengyuData-052.bin",
       "bytes": 100000000,
-      "sha256": "c50ae5a86cb4bca6ab73ff81f155304c8d3c185977cc4b43fb217e004e167b47"
+      "sha256": "c50ae5a86cb4bca6ab73ff81f155304c8d3c185977cc4b43fb217e004e167b47",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-052.bin"
     },
     {
       "name": "ShengyuData-053.bin",
       "bytes": 100000000,
-      "sha256": "12a68f8463bb64b84404c43007b0abd94e893b02bd193549f8bd0eac375c84a7"
+      "sha256": "12a68f8463bb64b84404c43007b0abd94e893b02bd193549f8bd0eac375c84a7",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-053.bin"
     },
     {
       "name": "ShengyuData-054.bin",
       "bytes": 100000000,
-      "sha256": "ded717cdb04ca15bf71da26d5c604dd775ac6ee05632626d48321f89b1640806"
+      "sha256": "ded717cdb04ca15bf71da26d5c604dd775ac6ee05632626d48321f89b1640806",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-054.bin"
     },
     {
       "name": "ShengyuData-055.bin",
       "bytes": 295919019,
-      "sha256": "2ff1d00530f6212b4d60c42fbdb91c82cff896d17881707ede3499a7f2f73d05"
+      "sha256": "2ff1d00530f6212b4d60c42fbdb91c82cff896d17881707ede3499a7f2f73d05",
+      "source_tag": "resources-v1",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/resources-v1/ShengyuData-055.bin"
+    },
+    {
+      "name": "ShengyuUpdate-001.bin",
+      "bytes": 100000000,
+      "sha256": "ce3eb385f1dc0e33f722a0480f98e4b149aeedd97d20c73752e1c40a5f6aa75f",
+      "source_tag": "v1.4.7",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.7/ShengyuUpdate-001.bin"
+    },
+    {
+      "name": "ShengyuUpdate-002.bin",
+      "bytes": 23934849,
+      "sha256": "185354edb86c2dae3c31931012c2af726798eb5b7e07e32afaf8e65b822cae89",
+      "source_tag": "v1.4.7",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.7/ShengyuUpdate-002.bin"
     }
-  ]
+  ],
+  "release_assets": [
+    {
+      "name": "Install-Shengyu.exe",
+      "bytes": 194048,
+      "sha256": "0ca1cdb5fd0220059e93c39792f78ac0ccf3240d8462159bb628871983377672"
+    },
+    {
+      "name": "README-Install.txt",
+      "bytes": 661,
+      "sha256": "d35661be1bac5702a14175c371e7577061602d470041cf0888d44f31c9395fc7"
+    },
+    {
+      "name": "ShengyuUpdate-001.bin",
+      "bytes": 100000000,
+      "sha256": "ce3eb385f1dc0e33f722a0480f98e4b149aeedd97d20c73752e1c40a5f6aa75f"
+    },
+    {
+      "name": "ShengyuUpdate-002.bin",
+      "bytes": 23934849,
+      "sha256": "185354edb86c2dae3c31931012c2af726798eb5b7e07e32afaf8e65b822cae89"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 5136,
+      "sha256": "e731d38bb29ee04f36ef5859df14c537120bcf5ecb5b27345ada0eed9e31cf50"
+    }
+  ],
+  "base_archive_sha256": "d394cbd1860cd33622c7c66fdb00f71275f1189ff762ebb6df7fae9b21615195"
 }

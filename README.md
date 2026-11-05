@@ -2,48 +2,44 @@
 
 **仅供个人娱乐，严禁商用。**
 
-Windows 本地配音软件。当前完整版本：**1.4.6**。
+Windows 本地配音软件，当前版本 **1.4.7**。
 
 ## 下载安装
 
-**[下载安装助手 Install-Shengyu.exe](https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.6/Install-Shengyu.exe)** · [完整发布页](https://github.com/haha997123/shengyu-voice-studio/releases/tag/v1.4.6)
+**[下载安装助手 Install-Shengyu.exe](https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.7/Install-Shengyu.exe)** · [发布页](https://github.com/haha997123/shengyu-voice-studio/releases/tag/v1.4.7)
 
-1. 下载并双击 `Install-Shengyu.exe`。
-2. 选择安装位置，点击“开始安装”。安装器自动下载资源、断点续传、校验和解压。
-3. 安装完成后打开声屿，之后可从桌面快捷方式启动。
+1. 下载并双击安装助手。
+2. 选择安装位置，点击“开始安装”。资源自动下载、续传、校验并安装。
+3. 完成后打开声屿，之后可从桌面快捷方式启动。
 
-**新电脑无需安装 Python，也无需手动解压、合并文件。**
+新电脑无需安装 Python，无需手动解压或合并 BIN。
+首次完整下载约 **5.82GB**，安装约 **7.93GB**；同一磁盘建议预留 **18GB**。
+安装器会自动使用“基础运行资源”和本版数据。发布页只需下载安装 EXE。
+离线安装时，将 EXE 和全部 BIN 放在同一文件夹，再运行 EXE。
+GitHub 自动生成的 Source code 附件不用于安装。
 
-首次下载约 **5.70GB**，完整安装约 **7.79GB**。
-下载缓存和安装位置在同一磁盘时，建议预留 **18GB**。已下载内容会保留，断网后重新运行安装器可继续。
-适用于 Windows 10/11 64 位 Intel/AMD 电脑，建议 16GB 内存；NVIDIA 显卡可用于本地配音加速。
+支持 Windows 10/11 x64，建议 16GB 内存；NVIDIA 显卡可用于本地声音模仿加速。
 
-发布页中的 `ShengyuData-*.bin` 是安装器自动下载的资源，**一般只需下载安装 EXE**。
-如果要离线传给别人，将安装 EXE 和全部 `.bin` 放在同一个文件夹，运行 EXE 即可。
-GitHub 自动生成的 `Source code` 附件不是软件安装包。
+## 1.4.7 更新
 
-## 功能
+- 新增鱼鱼酱、鱼鱼姐：本地 CPU 音色，安装后无需 API Key，可离线使用。
+- 声音模仿的样音录制一次点击开始，支持默认/指定麦克风，有计时和音量反馈。
+- 麦克风区域采用清晰的青色，按钮采用蓝色焦点和按下反馈。
+- 配音生成显示当前阶段和用时；播放结束自动停止并恢复播放按钮。
+- 保留 F5-TTS 本地声音模仿、SenseVoice-Small 离线语音输入、MP3/WAV 导出、音色改名/删除/隐藏与恢复。
 
-- 曼波、派蒙、晓辰：本地配音；晓晓、云希等在线音色需要联网。
-- F5-TTS v1 Base 声音模仿：导入音频或录制样音，核对文字后保存。
-- 新音色自动命名，可改名、删除；音色可隐藏，并通过“已隐藏”恢复。
-- SenseVoice-Small 离线语音输入：直接在文案框出字，无录音弹窗；支持选择麦克风。
-- 识别模型在后台预热并复用，**只有点击录音按钮才打开麦克风**。
-- 样音逐字文本中的数字默认使用中文写法，例如“一百二十三元”。
-- 支持 TXT 导入、文案清空、试听，以及 MP3/WAV 导出。
-- 淡蓝紫水晶风桌面界面。
-
-本完整包不包含作者的录音、自建音色、隐藏偏好、运行日志或缓存。
-旧版用户可安装到新目录，关闭软件后将自己的 `data` 文件夹迁移过去；请保留自己的原目录直到确认正常。
+曼波、派蒙、晓辰、鱼鱼酱、鱼鱼姐为本地音色；晓晓、云希等在线音色需要联网。
+个人录音、自建音色和偏好位于自己的 `data` 文件夹，发布包不包含作者的这些数据。
+旧用户可安装到新目录，关闭软件后迁移自己的 `data`，确认正常后再处理原目录。
 
 ## 来源与许可
 
-第三方组件包括 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)、[F5-TTS](https://github.com/SWivid/F5-TTS)、[SenseVoice](https://github.com/FunAudioLLM/SenseVoice) 等。
-F5-TTS 模型按 CC-BY-NC-4.0 使用，其他代码、模型及参考音频分别适用各自的许可和权利要求；来源和许可文件随安装包提供。
-“仅供个人娱乐，严禁商用”不修改第三方许可证，也不代表获得额外的角色音色或真人录音授权。
+[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)、[F5-TTS](https://github.com/SWivid/F5-TTS)、[SenseVoice](https://github.com/FunAudioLLM/SenseVoice)。
+鱼鱼酱/鱼鱼姐来自 [dsh-pet-voice-fishy](https://github.com/bbfang2025-cyber/dsh-pet-voice-fishy)，保留上游模型卡；鱼鱼姐为上游实验音色。
+F5-TTS 模型按 CC-BY-NC-4.0 使用；鱼鱼音色基于 Piper 中文 Xiao Ya medium/BZNSYP，限个人非商业使用。
+其余代码、模型和音频分别适用各自许可，许可文件随软件提供。
 
 ## 完整性
 
-安装器检查每个资源和整体压缩数据的 SHA256。各附件校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
-
-整体压缩数据 SHA256：`d394cbd1860cd33622c7c66fdb00f71275f1189ff762ebb6df7fae9b21615195`。
+安装器校验每个资源及整体数据的 SHA256。附件校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
+整体安装数据 SHA256：`c8269a90a6434291c9428e07b1cf59f335d07ccc7513beb698c20db63e798f57`。
