@@ -2,11 +2,11 @@
 
 **仅供个人娱乐，严禁商用。**
 
-Windows 本地配音软件，当前版本 **1.4.7**。
+Windows 本地配音软件，当前版本 **1.4.8**。
 
 ## 下载安装
 
-**[下载安装助手 Install-Shengyu.exe](https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.7/Install-Shengyu.exe)** · [发布页](https://github.com/haha997123/shengyu-voice-studio/releases/tag/v1.4.7)
+**[下载安装助手 Install-Shengyu.exe](https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.8/Install-Shengyu.exe)** · [发布页](https://github.com/haha997123/shengyu-voice-studio/releases/tag/v1.4.8)
 
 1. 下载并双击安装助手。
 2. 选择安装位置，点击“开始安装”。资源自动下载、续传、校验并安装。
@@ -20,7 +20,12 @@ GitHub 自动生成的 Source code 附件不用于安装。
 
 支持 Windows 10/11 x64，建议 16GB 内存；NVIDIA 显卡可用于本地声音模仿加速。
 
-## 1.4.7 更新
+## 1.4.8 更新
+
+- 文案框新增剪切、复制、粘贴和全选右键菜单，支持快捷键、方向键及 Esc。
+- 菜单采用浅色圆角、图标和悬停反馈，粘贴可替换选中文字，支持撤销。
+
+以下功能延续上一版：
 
 - 新增鱼鱼酱、鱼鱼姐：本地 CPU 音色，安装后无需 API Key，可离线使用。
 - 声音模仿的样音录制一次点击开始，支持默认/指定麦克风，有计时和音量反馈。
@@ -42,4 +47,4 @@ F5-TTS 模型按 CC-BY-NC-4.0 使用；鱼鱼音色基于 Piper 中文 Xiao Ya m
 ## 完整性
 
 安装器校验每个资源及整体数据的 SHA256。附件校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
-整体安装数据 SHA256：`c8269a90a6434291c9428e07b1cf59f335d07ccc7513beb698c20db63e798f57`。
+整体安装数据 SHA256：`a37f8bcd298f5cea895e48ed4bebbb751ecfb8ebe12e699c88c97bed7598d8ec`。

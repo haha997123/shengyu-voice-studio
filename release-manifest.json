@@ -1,10 +1,10 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "archive_format": "zip-prefix-v1",
-  "archive_sha256": "c8269a90a6434291c9428e07b1cf59f335d07ccc7513beb698c20db63e798f57",
-  "download_bytes": 5819853868,
-  "unpacked_bytes": 7925436023,
-  "new_upload_bytes": 124134694,
+  "archive_sha256": "a37f8bcd298f5cea895e48ed4bebbb751ecfb8ebe12e699c88c97bed7598d8ec",
+  "download_bytes": 5819251947,
+  "unpacked_bytes": 7925446214,
+  "new_upload_bytes": 123532773,
   "parts": [
     {
       "name": "ShengyuData-001.bin",
@@ -394,43 +394,43 @@
     {
       "name": "ShengyuUpdate-001.bin",
       "bytes": 100000000,
-      "sha256": "ce3eb385f1dc0e33f722a0480f98e4b149aeedd97d20c73752e1c40a5f6aa75f",
-      "source_tag": "v1.4.7",
-      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.7/ShengyuUpdate-001.bin"
+      "sha256": "cce3044089e00041f7699fb28850f75d11e8375d3669458339274cb4e4fdb59e",
+      "source_tag": "v1.4.8",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.8/ShengyuUpdate-001.bin"
     },
     {
       "name": "ShengyuUpdate-002.bin",
-      "bytes": 23934849,
-      "sha256": "185354edb86c2dae3c31931012c2af726798eb5b7e07e32afaf8e65b822cae89",
-      "source_tag": "v1.4.7",
-      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.7/ShengyuUpdate-002.bin"
+      "bytes": 23332928,
+      "sha256": "62ebcf330d144f8db785eb1228da36628f66074c84be36dcd340941dfd047d25",
+      "source_tag": "v1.4.8",
+      "download_url": "https://github.com/haha997123/shengyu-voice-studio/releases/download/v1.4.8/ShengyuUpdate-002.bin"
     }
   ],
   "release_assets": [
     {
       "name": "Install-Shengyu.exe",
       "bytes": 194048,
-      "sha256": "0ca1cdb5fd0220059e93c39792f78ac0ccf3240d8462159bb628871983377672"
+      "sha256": "9dc20047e89ac9791357a6bc8b7067d76d55d186518a8d67a363d1e20a50b79e"
     },
     {
       "name": "README-Install.txt",
       "bytes": 661,
-      "sha256": "d35661be1bac5702a14175c371e7577061602d470041cf0888d44f31c9395fc7"
+      "sha256": "f34fe034377e63b9d2a47cdfd542d04eb0b86f1678c13d5aa0f375426777c97b"
     },
     {
       "name": "ShengyuUpdate-001.bin",
       "bytes": 100000000,
-      "sha256": "ce3eb385f1dc0e33f722a0480f98e4b149aeedd97d20c73752e1c40a5f6aa75f"
+      "sha256": "cce3044089e00041f7699fb28850f75d11e8375d3669458339274cb4e4fdb59e"
     },
     {
       "name": "ShengyuUpdate-002.bin",
-      "bytes": 23934849,
-      "sha256": "185354edb86c2dae3c31931012c2af726798eb5b7e07e32afaf8e65b822cae89"
+      "bytes": 23332928,
+      "sha256": "62ebcf330d144f8db785eb1228da36628f66074c84be36dcd340941dfd047d25"
     },
     {
       "name": "SHA256SUMS.txt",
       "bytes": 5136,
-      "sha256": "e731d38bb29ee04f36ef5859df14c537120bcf5ecb5b27345ada0eed9e31cf50"
+      "sha256": "257143e95b3032a08b00f7e56b8dff458ca2213504f5a5416251478eaa5d7cdd"
     }
   ],
   "base_archive_sha256": "d394cbd1860cd33622c7c66fdb00f71275f1189ff762ebb6df7fae9b21615195"
